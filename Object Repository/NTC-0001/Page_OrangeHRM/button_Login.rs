@@ -6,12 +6,12 @@
    <elementGuidId>9eb82130-cab8-4e8c-9820-5eba6394dd11</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.oxd-button.oxd-button--medium.oxd-button--main.orangehrm-login-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7534107a-9c8e-4495-b439-d196e137f371</webElementGuid>
+      <webElementGuid>8c4a001c-e05e-4272-bffe-7a998bdeca85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>624a7177-da69-45f7-88dd-abf59e2c33f4</webElementGuid>
+      <webElementGuid>1d940acb-d58f-4a05-94e1-68f4d47f2d84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-button oxd-button--medium oxd-button--main orangehrm-login-button</value>
-      <webElementGuid>b5674b9b-f2db-4c44-af59-3a4985e11d0e</webElementGuid>
+      <webElementGuid>85342784-2bd8-44d6-888c-31beaf621c3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Login </value>
-      <webElementGuid>29d57f00-191c-40e4-91e2-88e0f94ed00c</webElementGuid>
+      <webElementGuid>678ccc94-86aa-49ec-a97d-35b63c8eae04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/div[@class=&quot;orangehrm-login-form&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-actions orangehrm-login-action&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--main orangehrm-login-button&quot;]</value>
-      <webElementGuid>30e39aed-9b36-44df-ab7a-c8ae9db4bf5b</webElementGuid>
+      <webElementGuid>9b1c7d6f-5400-4438-ac4b-5a2c7fde31aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>e87c319d-7456-45c7-a168-43d48b96aaf7</webElementGuid>
+      <webElementGuid>5c4fa3df-5e5f-4d6f-a568-ece2f48b538d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/form/div[3]/button</value>
-      <webElementGuid>3cb81dab-4ce2-4881-b089-49d9f113a620</webElementGuid>
+      <webElementGuid>9c467df2-2d7e-4fe9-9129-3ecc568612ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>e48469f5-16b3-4c5c-bd48-3a9fda10fb2f</webElementGuid>
+      <webElementGuid>0d9f73ff-7abc-4570-a953-7628fe569526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
-      <webElementGuid>538312d1-f409-42f3-8362-065f7d183253</webElementGuid>
+      <webElementGuid>18d6e64d-a94a-40b8-bc81-aed3657a9d54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::button[1]</value>
-      <webElementGuid>124cb434-e3cc-436d-8717-a4dd70bf6a6d</webElementGuid>
+      <webElementGuid>4f48ebe4-b237-498a-8989-1f373b37bf06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>46e3215e-e545-478a-9d45-20f9b51c73e6</webElementGuid>
+      <webElementGuid>f16f6d18-6c85-4c78-aeb1-f16315fde870</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Login ' or . = ' Login ')]</value>
-      <webElementGuid>d83af596-f025-4bc0-9a1a-b5a9b0f05b8c</webElementGuid>
+      <webElementGuid>e679fd78-f147-4599-8958-665cc3a053ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
